@@ -1,0 +1,118 @@
+{
+    "menus": [
+			{
+				"title": "Nkowbi",
+				"img": "./img/nkowbi-.png",
+				"para": "Nkwobi is a traditional eastern Nigerian delicacy which is served mostly at restaurants, special social events.  ",
+				"price": "$50",
+				"type": "Lunch",
+				"id": 1
+			},
+			{
+				"title": "Buttermilk pancake",
+				"img": "./img/Buttermilk pancake.jpeg",
+				"para": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed.",
+				"price": "$15",
+				"type": "Breakfast",
+				"id": 2
+			},
+
+			{
+				"title": "Godzilla Milkshake",
+				"img": "./img/Godzilla Milkshake.jpeg",
+				"para": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.",
+				"price": "$15",
+				"type": "Shakes",
+				"id": 3
+			},
+			{
+				"title": "Ofada Rice",
+				"img": "./img/ofada.jpg",
+				"para": "Ofada rice is a popular Nigerian rice variety. It is also called Unpolished rice without genetic modification. ",
+				"price": "$30",
+				"type": "Lunch",
+				"id": 4
+			},
+			{
+				"title": "Hamburger",
+				"img": "./img/Hamburger.jpeg",
+				"para": "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up",
+				"price": "$15",
+				"type": "Snack",
+				"id": 5
+			},
+			{
+				"title": "Bacon Overflow",
+				"img": "./img/Bacon Overflow.jpeg",
+				"para": "carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird",
+				"price": "$15",
+				"type": "Breakfast",
+				"id": 6
+			},
+			{
+				"title": "Egusi Soup",
+				"img": "./img/egusi.jpg",
+				"para": "Egusi Soup is a finger-licking good Nigerian soup made with a white variety of pumpkin seeds. ",
+				"price": "$100",
+				"type": "Lunch",
+				"id": 7
+			},
+			{
+				"title": "Jollof rice",
+				"img": "./img/rice.jpg",
+				"para": "Jollof, or jollof rice, is a rice dish from West Africa. It is widely eaten by all.",
+				"price": "$25",
+				"type": "Lunch",
+				"id": 8
+			},
+			{
+				"title": "Oreo Dream",
+				"img": "./img/Oreo Dream.jpeg",
+				"para": "Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday",
+				"price": "$15",
+				"type": "Shakes",
+				"id": 9
+			},
+
+			{
+				"title": "Fried-yam",
+				"img": "./img/fried-yam.jpg",
+				"para": "Fried yam is a deep-fried yam recipe that can be eaten with a wide range of Nigerian stews and sauces",
+				"price": "$35",
+				"type": "Lunch",
+				"id": 10
+			},
+			{
+				"title": "Abacha",
+				"img": "./img/abacha.jpg",
+				"para": "Abacha is an Eastern Nigeria dish made using dried, shredded cassava. You can eat it as a snack or a full meal.",
+				"price": "$20",
+				"type": "Lunch",
+				"id": 11
+			},
+			{
+				"title": "Country Delight",
+				"img": "./img/Country Delight.jpeg",
+				"para": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut.",
+				"price": "$15",
+				"type": "Breakfast",
+				"id": 12
+			},
+			{
+				"title": "Meat pie",
+				"img": "./img/MeatPie.jpg",
+				"para": "meat pie is a pie with a filling of meat and often other savory ingredients. They are found in cuisines worldwide",
+				"price": "$5",
+				"type": "Snack",
+				"id": 13
+			},
+			{
+				"title": "Puff Puff",
+				"img": "./img/PuffPuff.jpg",
+				"para": "Puff-puff, as it is called in Nigeria and Sierra Leone, sometimes Ghana, and in anglophone Cameroon, is a traditional African snack made of fried dough.",
+				"price": "$3",
+				"type": "Snack",
+				"id": 14
+			}
+		]
+}

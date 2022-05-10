@@ -26,7 +26,7 @@
 
 Repo_name: https://github.com/ijayhub/fun-travel
 
-Hosted link: 
+Hosted link: menu-list-eta.vercel.app
 
 project_title: MenuList
 
@@ -59,3 +59,4 @@ You may also see any lint errors in the console.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+Still in progress

@@ -5,7 +5,7 @@ import useFetch from './useFetch';
 
 
 const Home = () => {
-   const { data:menus, isPending, error } = useFetch('http://localhost:8000/menus'); 
+   const { data:menus, isPending, error } = useFetch('http://localhost:3000/menus'); 
     
    
     return (

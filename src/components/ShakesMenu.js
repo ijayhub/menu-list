@@ -4,7 +4,7 @@ import useFetch from './useFetch';
 import { Link } from 'react-router-dom';
 
 const ShakesMenu = () => {
-	const { data: menus } = useFetch('http://localhost:8000/menus');
+	const { data: menus } = useFetch('http://localhost:3000/menus');
 	return (
 		<div>
 			<div className='container'>
